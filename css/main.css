@@ -60,4 +60,5 @@ footer{
 	display: block;
 	position: fixed;
 	padding: 1em;
+	bottom: 1em;
 }
